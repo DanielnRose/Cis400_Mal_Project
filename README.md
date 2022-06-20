@@ -30,3 +30,6 @@ Output will take a little bit to be outputted
 run Data_Visualization.py for data visualization of this recommendation system
 - in Data_Visualization.py, replace the user variable with a string containing the username that you wish to test
 - if jupyter notebook is preferable, the Data_Visualization.ipynb works as wells
+
+
+-Made in a group by Daniel, Shane, Joe, Randy, and Noah
