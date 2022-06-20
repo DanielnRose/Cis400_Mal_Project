@@ -1,0 +1,645 @@
+1651112141194	geckodriver	INFO	Listening on 127.0.0.1:58658
+1651112144787	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58659" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\shane\\AppData\\Local\\Temp\\rust_mozprofileQFs2Lc"
+1651112145559	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shane\\AppData\\Local\\Temp\\rust_mozprofileQFs2Lc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58659/devtools/browser/0c2b65b0-e0c8-4b91-b1f7-ac5a8470200c
+1651112148691	Marionette	INFO	Listening on port 58682
+Read port: 58682
+1651112149153	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1651112152146	Marionette	INFO	Stopped listening on port 58682
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1651112350486	geckodriver	INFO	Listening on 127.0.0.1:59073
+1651112354240	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59074" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\shane\\AppData\\Local\\Temp\\rust_mozprofilefMDGjS"
+1651112354775	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shane\\AppData\\Local\\Temp\\rust_mozprofilefMDGjS\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59074/devtools/browser/dfb70f9f-8a8b-4d47-a1d0-43d293cc3fef
+1651112357551	Marionette	INFO	Listening on port 59097
+Read port: 59097
+1651112357676	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1651112369105	Marionette	INFO	Stopped listening on port 59097
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1651112489689	geckodriver	INFO	Listening on 127.0.0.1:59155
+1651112493393	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59156" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\shane\\AppData\\Local\\Temp\\rust_mozprofilee0Z5aI"
+1651112493809	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shane\\AppData\\Local\\Temp\\rust_mozprofilee0Z5aI\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59156/devtools/browser/c64ee7cc-2869-4e10-819f-ece2f527c12b
+1651112496794	Marionette	INFO	Listening on port 59185
+Read port: 59185
+1651112496907	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1651112504810	Marionette	INFO	Stopped listening on port 59185
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1651112512175	geckodriver	INFO	Listening on 127.0.0.1:59227
+1651112515814	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59228" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\shane\\AppData\\Local\\Temp\\rust_mozprofileyd81yJ"
+1651112516326	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shane\\AppData\\Local\\Temp\\rust_mozprofileyd81yJ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59228/devtools/browser/c777e4ee-5245-4640-9221-aec4e4b8ae53
+1651112519352	Marionette	INFO	Listening on port 59253
+Read port: 59253
+1651112519479	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LE6A1jkwhzHIveaC2PWdXlafu4EKGxRoxiYl273qJjE.js line 1 > eval line 241 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1651113192885	Marionette	INFO	Stopped listening on port 59253
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+\rust_mozprofileteaJES"
+*** You are running in headless mode.
+1651113188321	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shane\\AppData\\Local\\Temp\\rust_mozprofileteaJES\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59555/devtools/browser/9d12b837-bd34-4f24-9e03-823e4052bf0c
+1651113190066	Marionette	INFO	Listening on port 59584
+Read port: 59584
+1651113190296	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NotFoundError: Could not move source file(C:\Users\shane\AppData\Local\Temp\rust_mozprofileteaJES\bookmarkbackups\bookmarks-2022-04-28_11_Re52Aj+oJ0tCDtKNIClLcw==.jsonlz4) because it does not exist
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+de.
+1651113247449	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shane\\AppData\\Local\\Temp\\rust_mozprofile4RGkiU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59649/devtools/browser/82e92968-5f81-4e54-8fd5-db18b03c0442
+1651113249376	Marionette	INFO	Listening on port 59680
+Read port: 59680
+1651113249493	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+ox.exe" "--marionette" "--headless" "--remote-debugging-port" "59713" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\shane\\AppData\\Local\\Temp\\rust_mozprofileDMDQoc"
+*** You are running in headless mode.
+1651113273077	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shane\\AppData\\Local\\Temp\\rust_mozprofileDMDQoc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59713/devtools/browser/6c8d3a6b-b501-4542-904b-50d16f1dcce5
+1651113274789	Marionette	INFO	Listening on port 59744
+Read port: 59744
+1651113274964	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+ox.exe" "--marionette" "--headless" "--remote-debugging-port" "59791" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\shane\\AppData\\Local\\Temp\\rust_mozprofilebCdKbh"
+*** You are running in headless mode.
+1651113310513	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shane\\AppData\\Local\\Temp\\rust_mozprofilebCdKbh\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59791/devtools/browser/7f29334b-a228-4e6a-bf66-97c39b248f03
+1651113312215	Marionette	INFO	Listening on port 59817
+Read port: 59817
+1651113312261	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NotFoundError: Could not move source file(C:\Users\shane\AppData\Local\Temp\rust_mozprofilebCdKbh\bookmarkbackups\bookmarks-2022-04-28_11_dMlXTnnVS2DAHk+H3DwSDA==.jsonlz4) because it does not exist
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NotFoundError: Could not move source file(C:\Users\shane\AppData\Local\Temp\rust_mozprofilebCdKbh\bookmarkbackups\bookmarks-2022-04-29_11_dMlXTnnVS2DAHk+H3DwSDA==.jsonlz4) because it does not exist
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+d not open the file at C:\\Users\\shane\\AppData\\Local\\Temp\\rust_mozprofileCFIs5G\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59885/devtools/browser/49a1c61b-1a84-4ce8-bf60-559ca7ef8edc
+1651113382619	Marionette	INFO	Listening on port 59911
+Read port: 59911
+1651113382665	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+ox.exe" "--marionette" "--headless" "--remote-debugging-port" "60302" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\shane\\AppData\\Local\\Temp\\rust_mozprofilelbhskF"
+*** You are running in headless mode.
+1651113763846	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shane\\AppData\\Local\\Temp\\rust_mozprofilelbhskF\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60302/devtools/browser/bc60455e-15cb-4b7b-93ae-9d044dbba7f8
+1651113765609	Marionette	INFO	Listening on port 60330
+Read port: 60330
+1651113765712	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LE6A1jkwhzHIveaC2PWdXlafu4EKGxRoxiYl273qJjE.js line 1 > eval line 4661 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: Timeout
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NotFoundError: Could not move source file(C:\Users\shane\AppData\Local\Temp\rust_mozprofilelbhskF\bookmarkbackups\bookmarks-2022-04-29_11_lJG1TZH4MwH3NIIX2u1hNA==.jsonlz4) because it does not exist
+JavaScript error: , line 0: NotFoundError: Could not move source file(C:\Users\shane\AppData\Local\Temp\rust_mozprofilelbhskF\bookmarkbackups\bookmarks-2022-04-29_11_lJG1TZH4MwH3NIIX2u1hNA==.jsonlz4) because it does not exist
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+ open the file at C:\\Users\\shane\\AppData\\Local\\Temp\\rust_mozprofileyXwtzi\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62071/devtools/browser/8597f8fe-612f-4d37-be58-f2582c9e8c4e
+1651114149693	Marionette	INFO	Listening on port 62102
+Read port: 62102
+1651114149863	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LE6A1jkwhzHIveaC2PWdXlafu4EKGxRoxiYl273qJjE.js line 1 > eval line 2362 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: Timeout
+JavaScript error: , line 0: NotFoundError: Could not move source file(C:\Users\shane\AppData\Local\Temp\rust_mozprofileyXwtzi\bookmarkbackups\bookmarks-2022-04-28_11_-GVhAnlCHxhrxMiRrxyDMA==.jsonlz4) because it does not exist
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1651114167456	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shane\\AppData\\Local\\Temp\\rust_mozprofile0Gg7GO\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62208/devtools/browser/25d3c6a0-4dbb-4454-a08d-7cbccbd8c2ec
+1651114169274	Marionette	INFO	Listening on port 62238
+Read port: 62238
+1651114169441	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LE6A1jkwhzHIveaC2PWdXlafu4EKGxRoxiYl273qJjE.js line 1 > eval line 4269 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: Timeout
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NotFoundError: Could not move source file(C:\Users\shane\AppData\Local\Temp\rust_mozprofile0Gg7GO\bookmarkbackups\bookmarks-2022-04-29_11_jefh6DzQyR5CuB9+UBDdsA==.jsonlz4) because it does not exist
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1651114274156	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shane\\AppData\\Local\\Temp\\rust_mozprofileETmVgt\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62369/devtools/browser/fa31f8d2-bd4e-467a-8461-5ef10f42fddc
+1651114275935	Marionette	INFO	Listening on port 62403
+Read port: 62403
+1651114276091	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LE6A1jkwhzHIveaC2PWdXlafu4EKGxRoxiYl273qJjE.js line 1 > eval line 6726 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: NotFoundError: Could not move source file(C:\Users\shane\AppData\Local\Temp\rust_mozprofileETmVgt\bookmarkbackups\bookmarks-2022-04-28_11_Vq8vqc-fWBkexeeCTkTsVg==.jsonlz4) because it does not exist
+JavaScript error: , line 0: uncaught exception: Timeout
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NotFoundError: Could not move source file(C:\Users\shane\AppData\Local\Temp\rust_mozprofileETmVgt\bookmarkbackups\bookmarks-2022-04-29_11_Vq8vqc-fWBkexeeCTkTsVg==.jsonlz4) because it does not exist
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+stening on ws://localhost:62489/devtools/browser/bae04df1-c364-4bcd-bd3b-58ded58e22cd
+1651114312212	Marionette	INFO	Listening on port 62516
+Read port: 62516
+1651114312263	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LE6A1jkwhzHIveaC2PWdXlafu4EKGxRoxiYl273qJjE.js line 1 > eval line 932 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LE6A1jkwhzHIveaC2PWdXlafu4EKGxRoxiYl273qJjE.js line 1 > eval line 2729 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, 1651114577115	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62759" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\shane\\AppData\\Local\\Temp\\rust_mozprofilejt9Mer"
+1651114577566	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shane\\AppData\\Local\\Temp\\rust_mozprofilejt9Mer\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62759/devtools/browser/f46a0a72-888f-4202-a211-eb1a706909ab
+1651114580344	Marionette	INFO	Listening on port 62788
+Read port: 62788
+1651114580383	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LE6A1jkwhzHIveaC2PWdXlafu4EKGxRoxiYl273qJjE.js line 1 > eval line 1449 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1651115043804	Marionette	INFO	Stopped listening on port 62788
+ on ws://localhost:62871/devtools/browser/d74caf18-ffbf-427c-b150-8665b168096b
+1651114617844	Marionette	INFO	Listening on port 62901
+Read port: 62901
+1651114618088	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LE6A1jkwhzHIveaC2PWdXlafu4EKGxRoxiYl273qJjE.js line 1 > eval line 5627 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1651114745279	Marionette	INFO	Stopped listening on port 62901
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "62987" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\shane\\AppData\\Local\\Temp\\rust_mozprofileDISvDr"
+1651114640630	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shane\\AppData\\Local\\Temp\\rust_mozprofileDISvDr\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62987/devtools/browser/6e13b922-7b8b-4e1e-9af8-5c27d9544dca
+1651114643670	Marionette	INFO	Listening on port 63014
+Read port: 63014
+1651114643757	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LE6A1jkwhzHIveaC2PWdXlafu4EKGxRoxiYl273qJjE.js line 1 > eval line 3094 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1651114746573	Marionette	INFO	Stopped listening on port 63014
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "63110" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\shane\\AppData\\Local\\Temp\\rust_mozprofilebM5PEg"
+1651114681307	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shane\\AppData\\Local\\Temp\\rust_mozprofilebM5PEg\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63110/devtools/browser/27cc2e80-0b27-4d4a-b6ba-1b5f5208f108
+1651114684147	Marionette	INFO	Listening on port 63140
+Read port: 63140
+1651114684224	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1651114741761	Marionette	INFO	Stopped listening on port 63140
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1651114813377	geckodriver	INFO	Listening on 127.0.0.1:63262
+1651114817185	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63263" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\shane\\AppData\\Local\\Temp\\rust_mozprofileTANQfZ"
+1651114817632	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shane\\AppData\\Local\\Temp\\rust_mozprofileTANQfZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63263/devtools/browser/2d89fca8-594d-4e6f-b5e0-74d344960057
+1651114820476	Marionette	INFO	Listening on port 63293
+Read port: 63293
+1651114820584	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LE6A1jkwhzHIveaC2PWdXlafu4EKGxRoxiYl273qJjE.js line 1 > eval line 1886 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1651115045059	Marionette	INFO	Stopped listening on port 63293
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "63440" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\shane\\AppData\\Local\\Temp\\rust_mozprofileXi7FkF"
+1651114961967	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shane\\AppData\\Local\\Temp\\rust_mozprofileXi7FkF\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63440/devtools/browser/d7327a94-5959-4e7f-bd0f-c952630f6956
+1651114964809	Marionette	INFO	Listening on port 63468
+Read port: 63468
+1651114964948	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1651115046649	Marionette	INFO	Stopped listening on port 63468
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1651115120938	geckodriver	INFO	Listening on 127.0.0.1:57689
+1651115124704	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57690" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\shane\\AppData\\Local\\Temp\\rust_mozprofileeV3Hi1"
+1651115125120	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shane\\AppData\\Local\\Temp\\rust_mozprofileeV3Hi1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57690/devtools/browser/cf96c5bf-1391-4df1-8138-36067b91d77f
+1651115128142	Marionette	INFO	Listening on port 57722
+Read port: 57722
+1651115128200	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1651115835634	Marionette	INFO	Stopped listening on port 57722
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "57788" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\shane\\AppData\\Local\\Temp\\rust_mozprofilelUbpuw"
+1651115194590	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shane\\AppData\\Local\\Temp\\rust_mozprofilelUbpuw\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57788/devtools/browser/cf8a263f-3690-4c22-be50-0bdf5a7abf1e
+1651115197531	Marionette	INFO	Listening on port 57817
+Read port: 57817
+1651115197577	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1651115836676	Marionette	INFO	Stopped listening on port 57817
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+ileeIMgz1"
+1651115336725	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shane\\AppData\\Local\\Temp\\rust_mozprofileeIMgz1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57910/devtools/browser/a3dd8693-6b12-4183-9f77-81854956448d
+1651115339801	Marionette	INFO	Listening on port 57940
+Read port: 57940
+1651115339865	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1651115837753	Marionette	INFO	Stopped listening on port 57940
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "57998" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\shane\\AppData\\Local\\Temp\\rust_mozprofile3nPk07"
+1651115394555	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shane\\AppData\\Local\\Temp\\rust_mozprofile3nPk07\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57998/devtools/browser/b61d4339-7c39-49ef-8a23-8998702ba749
+1651115397635	Marionette	INFO	Listening on port 58028
+Read port: 58028
+1651115397741	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1651115838760	Marionette	INFO	Stopped listening on port 58028
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+ngs file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shane\\AppData\\Local\\Temp\\rust_mozprofileAhqEup\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58178/devtools/browser/7b4ffdb3-a18b-457f-a3e8-4e84a76e3c34
+1651115587160	Marionette	INFO	Listening on port 58214
+Read port: 58214
+1651115587297	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1651115839700	Marionette	INFO	Stopped listening on port 58214
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+ngs file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shane\\AppData\\Local\\Temp\\rust_mozprofileWzSgkH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58407/devtools/browser/36608b43-9f31-4891-a06d-637ac9258337
+1651115814701	Marionette	INFO	Listening on port 58438
+Read port: 58438
+1651115814832	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LE6A1jkwhzHIveaC2PWdXlafu4EKGxRoxiYl273qJjE.js line 1 > eval line 2908 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1651115840700	Marionette	INFO	Stopped listening on port 58438
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1651115960783	geckodriver	INFO	Listening on 127.0.0.1:58611
+1651115964586	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58612" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\shane\\AppData\\Local\\Temp\\rust_mozprofileZvGdmg"
+1651115965101	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shane\\AppData\\Local\\Temp\\rust_mozprofileZvGdmg\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58612/devtools/browser/d71d0531-ec28-4997-ad4d-e921335d28b7
+1651115967901	Marionette	INFO	Listening on port 58633
+Read port: 58633
+1651115968218	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LE6A1jkwhzHIveaC2PWdXlafu4EKGxRoxiYl273qJjE.js line 1 > eval line 4579 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1651116071801	Marionette	INFO	Stopped listening on port 58633
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+ile8shWPx"
+1651116003313	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shane\\AppData\\Local\\Temp\\rust_mozprofile8shWPx\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58734/devtools/browser/408e3434-77c9-40da-b84f-7ae164787b6c
+1651116006316	Marionette	INFO	Listening on port 58766
+Read port: 58766
+1651116006460	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LE6A1jkwhzHIveaC2PWdXlafu4EKGxRoxiYl273qJjE.js line 1 > eval line 7244 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1651116072829	Marionette	INFO	Stopped listening on port 58766
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1651116077837	geckodriver	INFO	Listening on 127.0.0.1:58872
+1651116081721	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58873" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\shane\\AppData\\Local\\Temp\\rust_mozprofileui00AH"
+1651116082205	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shane\\AppData\\Local\\Temp\\rust_mozprofileui00AH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58873/devtools/browser/b3e9b10e-8ea8-428b-b5a5-d53507dc8107
+1651116084960	Marionette	INFO	Listening on port 58904
+Read port: 58904
+1651116085026	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LE6A1jkwhzHIveaC2PWdXlafu4EKGxRoxiYl273qJjE.js line 1 > eval line 2852 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1651116196767	Marionette	INFO	Stopped listening on port 58904
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+ngs file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shane\\AppData\\Local\\Temp\\rust_mozprofile6GLFwa\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59033/devtools/browser/6ae03817-561b-4ffe-a3bd-1f4acc92fbdc
+1651116196160	Marionette	INFO	Listening on port 59068
+Read port: 59068
+1651116196243	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LE6A1jkwhzHIveaC2PWdXlafu4EKGxRoxiYl273qJjE.js line 1 > eval line 270 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1651116302915	Marionette	INFO	Stopped listening on port 59068
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+arch.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59193/devtools/browser/3dca1abb-58b4-4315-b533-3789441171e3
+1651116293835	Marionette	INFO	Listening on port 59221
+Read port: 59221
+1651116294130	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LE6A1jkwhzHIveaC2PWdXlafu4EKGxRoxiYl273qJjE.js line 1 > eval line 3974 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1651116468075	Marionette	INFO	Stopped listening on port 59221
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+ile5S2rtB"
+1651116333728	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shane\\AppData\\Local\\Temp\\rust_mozprofile5S2rtB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59326/devtools/browser/7a66b53b-4248-4665-a02d-04b4b6355b86
+1651116336670	Marionette	INFO	Listening on port 59354
+Read port: 59354
+1651116336720	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LE6A1jkwhzHIveaC2PWdXlafu4EKGxRoxiYl273qJjE.js line 1 > eval line 7795 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1651116469353	Marionette	INFO	Stopped listening on port 59354
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+arch.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59448/devtools/browser/7c8608c1-3646-4b69-93a5-0760414dfa2c
+1651116378958	Marionette	INFO	Listening on port 59477
+Read port: 59477
+1651116379091	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LE6A1jkwhzHIveaC2PWdXlafu4EKGxRoxiYl273qJjE.js line 1 > eval line 2016 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1651116470357	Marionette	INFO	Stopped listening on port 59477
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+ngs file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shane\\AppData\\Local\\Temp\\rust_mozprofile1drH2o\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59591/devtools/browser/0e63ee0b-4725-4ea3-90cc-46103721587c
+1651116442593	Marionette	INFO	Listening on port 59620
+Read port: 59620
+1651116442667	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LE6A1jkwhzHIveaC2PWdXlafu4EKGxRoxiYl273qJjE.js line 1 > eval line 4981 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1651116471699	Marionette	INFO	Stopped listening on port 59620
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1651116634262	geckodriver	INFO	Listening on 127.0.0.1:59833
+1651116638149	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "59834" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\shane\\AppData\\Local\\Temp\\rust_mozprofilesnUbLk"
+*** You are running in headless mode.
+1651116638586	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shane\\AppData\\Local\\Temp\\rust_mozprofilesnUbLk\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59834/devtools/browser/669b4736-8df5-447b-8d6f-3eb5a424c628
+1651116640320	Marionette	INFO	Listening on port 59861
+Read port: 59861
+1651116640532	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LE6A1jkwhzHIveaC2PWdXlafu4EKGxRoxiYl273qJjE.js line 1 > eval line 5069 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: Timeout
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NotFoundError: Could not move source file(C:\Users\shane\AppData\Local\Temp\rust_mozprofilesnUbLk\bookmarkbackups\bookmarks-2022-04-29_11_j4hUKTn+cGacnJMeUg9s2g==.jsonlz4) because it does not exist
+JavaScript error: , line 0: NotFoundError: Could not move source file(C:\Users\shane\AppData\Local\Temp\rust_mozprofilesnUbLk\bookmarkbackups\bookmarks-2022-04-29_11_j4hUKTn+cGacnJMeUg9s2g==.jsonlz4) because it does not exist
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+ open the file at C:\\Users\\shane\\AppData\\Local\\Temp\\rust_mozprofilekf8UBG\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59973/devtools/browser/ad007e72-6a03-45d8-a1d5-42fbb3933946
+1651116699703	Marionette	INFO	Listening on port 60000
+Read port: 60000
+1651116699923	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LE6A1jkwhzHIveaC2PWdXlafu4EKGxRoxiYl273qJjE.js line 1 > eval line 18 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: Timeout
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+e" "--marionette" "--headless" "--remote-debugging-port" "60111" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\shane\\AppData\\Local\\Temp\\rust_mozprofileB0mJok"
+*** You are running in headless mode.
+1651116748592	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shane\\AppData\\Local\\Temp\\rust_mozprofileB0mJok\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60111/devtools/browser/618bb787-07ed-43bf-973a-98b1dac9ddf9
+1651116750491	Marionette	INFO	Listening on port 60139
+Read port: 60139
+1651116750693	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LE6A1jkwhzHIveaC2PWdXlafu4EKGxRoxiYl273qJjE.js line 1 > eval line 7456 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: Timeout
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NotFoundError: Could not move source file(C:\Users\shane\AppData\Local\Temp\rust_mozprofileB0mJok\bookmarkbackups\bookmarks-2022-04-29_11_XNSfovKlicntVZrPGqnjMA==.jsonlz4) because it does not exist
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1651116780832	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shane\\AppData\\Local\\Temp\\rust_mozprofilesxgm7M\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60225/devtools/browser/3d3126a7-c48b-4bc1-82b9-d7a1d1be0c7b
+1651116782580	Marionette	INFO	Listening on port 60251
+Read port: 60251
+1651116782650	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LE6A1jkwhzHIveaC2PWdXlafu4EKGxRoxiYl273qJjE.js line 1 > eval line 1458 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: Timeout
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+e" "--marionette" "--headless" "--remote-debugging-port" "60352" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\shane\\AppData\\Local\\Temp\\rust_mozprofileoLWV8Z"
+*** You are running in headless mode.
+1651116815395	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shane\\AppData\\Local\\Temp\\rust_mozprofileoLWV8Z\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60352/devtools/browser/a5e1d383-8a25-4c2e-80e1-898306e9290d
+1651116817125	Marionette	INFO	Listening on port 60379
+Read port: 60379
+1651116817361	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LE6A1jkwhzHIveaC2PWdXlafu4EKGxRoxiYl273qJjE.js line 1 > eval line 1499 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: Timeout
+JavaScript error: , line 0: NotFoundError: Could not move source file(C:\Users\shane\AppData\Local\Temp\rust_mozprofileoLWV8Z\bookmarkbackups\bookmarks-2022-04-28_11_XkKDUUOSseGdmU7mICSCgA==.jsonlz4) because it does not exist
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NotFoundError: Could not move source file(C:\Users\shane\AppData\Local\Temp\rust_mozprofileoLWV8Z\bookmarkbackups\bookmarks-2022-04-29_11_XkKDUUOSseGdmU7mICSCgA==.jsonlz4) because it does not exist
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+ open the file at C:\\Users\\shane\\AppData\\Local\\Temp\\rust_mozprofileiKqtdx\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60480/devtools/browser/1155da84-29dc-4eec-96c6-edd8f7e04562
+1651116855558	Marionette	INFO	Listening on port 60506
+Read port: 60506
+1651116855786	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LE6A1jkwhzHIveaC2PWdXlafu4EKGxRoxiYl273qJjE.js line 1 > eval line 173 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: Timeout
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NotFoundError: Could not move source file(C:\Users\shane\AppData\Local\Temp\rust_mozprofileiKqtdx\bookmarkbackups\bookmarks-2022-04-29_11_pf0MSlEJmET4NefJiS1XHQ==.jsonlz4) because it does not exist
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1651116955795	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shane\\AppData\\Local\\Temp\\rust_mozprofile71iH50\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60019/devtools/browser/0459e441-6bcd-4637-a0b3-7120c4d19a15
+1651116957540	Marionette	INFO	Listening on port 60049
+Read port: 60049
+1651116957684	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LE6A1jkwhzHIveaC2PWdXlafu4EKGxRoxiYl273qJjE.js line 1 > eval line 5301 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: Timeout
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+e" "--marionette" "--headless" "--remote-debugging-port" "60197" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\shane\\AppData\\Local\\Temp\\rust_mozprofilevJw5Np"
+*** You are running in headless mode.
+1651117056241	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shane\\AppData\\Local\\Temp\\rust_mozprofilevJw5Np\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60197/devtools/browser/94a35195-c1e1-4b41-b7ce-f75376788cb2
+1651117058085	Marionette	INFO	Listening on port 60224
+Read port: 60224
+1651117058240	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LE6A1jkwhzHIveaC2PWdXlafu4EKGxRoxiYl273qJjE.js line 1 > eval line 5388 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: Timeout
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+e" "--marionette" "--headless" "--remote-debugging-port" "60495" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\shane\\AppData\\Local\\Temp\\rust_mozprofile2kQWns"
+*** You are running in headless mode.
+1651117279001	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shane\\AppData\\Local\\Temp\\rust_mozprofile2kQWns\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60495/devtools/browser/749439cb-4169-486a-94f5-a936e7f24510
+1651117280667	Marionette	INFO	Listening on port 60523
+Read port: 60523
+1651117280860	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LE6A1jkwhzHIveaC2PWdXlafu4EKGxRoxiYl273qJjE.js line 1 > eval line 7264 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: NotFoundError: Could not move source file(C:\Users\shane\AppData\Local\Temp\rust_mozprofile2kQWns\bookmarkbackups\bookmarks-2022-04-28_11_nozPFvAEkyAM6fFKxKHGmw==.jsonlz4) because it does not exist
+JavaScript error: , line 0: uncaught exception: Timeout
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NotFoundError: Could not move source file(C:\Users\shane\AppData\Local\Temp\rust_mozprofile2kQWns\bookmarkbackups\bookmarks-2022-04-29_11_nozPFvAEkyAM6fFKxKHGmw==.jsonlz4) because it does not exist
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+stening on ws://localhost:65197/devtools/browser/5a156947-5759-4b60-9fd5-f0d3e6abb28d
+1651121683666	Marionette	INFO	Listening on port 65225
+Read port: 65225
+1651121683803	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LE6A1jkwhzHIveaC2PWdXlafu4EKGxRoxiYl273qJjE.js line 1 > eval line 7516 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1651146881595	Marionette	INFO	Stopped listening on port 65225
+console.error: PushServiceWebSocket: 
+  _beginWSSetup: Not in shutdown state! Current state
+  2
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1651150130943	geckodriver	INFO	Listening on 127.0.0.1:64292
+1651150134765	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64293" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\shane\\AppData\\Local\\Temp\\rust_mozprofile74GWgz"
+1651150135198	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shane\\AppData\\Local\\Temp\\rust_mozprofile74GWgz\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64293/devtools/browser/a5067def-af1f-4a86-8973-7686445bd469
+1651150137550	Marionette	INFO	Listening on port 64317
+Read port: 64317
+1651150137622	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/d_XgMe7_8DX3JscHlpumBxzOcHqlAtWKp75Cu0r3_I4.js line 1 > eval line 3130 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1651151186066	Marionette	INFO	Stopped listening on port 64317
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+ileY0FYpv"
+1651150201208	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shane\\AppData\\Local\\Temp\\rust_mozprofileY0FYpv\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64543/devtools/browser/a08ce33b-af25-4336-a462-a55fb0d03695
+1651150203546	Marionette	INFO	Listening on port 64569
+Read port: 64569
+1651150203631	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/d_XgMe7_8DX3JscHlpumBxzOcHqlAtWKp75Cu0r3_I4.js line 1 > eval line 5872 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1651151187021	Marionette	INFO	Stopped listening on port 64569
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "65429" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\shane\\AppData\\Local\\Temp\\rust_mozprofilegStaAF"
+1651151163840	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shane\\AppData\\Local\\Temp\\rust_mozprofilegStaAF\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65429/devtools/browser/f75bbc2a-0d91-4462-a03c-17486cdcd082
+1651151166409	Marionette	INFO	Listening on port 65453
+Read port: 65453
+1651151166629	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/d_XgMe7_8DX3JscHlpumBxzOcHqlAtWKp75Cu0r3_I4.js line 1 > eval line 3231 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1651151187947	Marionette	INFO	Stopped listening on port 65453
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1651151210448	geckodriver	INFO	Listening on 127.0.0.1:49186
+1651151214279	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "49187" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\shane\\AppData\\Local\\Temp\\rust_mozprofileCUY2db"
+*** You are running in headless mode.
+1651151214750	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shane\\AppData\\Local\\Temp\\rust_mozprofileCUY2db\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49187/devtools/browser/5758755e-1eac-4013-8c7d-95f955afa530
+1651151216381	Marionette	INFO	Listening on port 49218
+Read port: 49218
+1651151216498	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/d_XgMe7_8DX3JscHlpumBxzOcHqlAtWKp75Cu0r3_I4.js line 1 > eval line 61 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: NotFoundError: Could not move source file(C:\Users\shane\AppData\Local\Temp\rust_mozprofileCUY2db\bookmarkbackups\bookmarks-2022-04-28.jsonlz4) because it does not exist
+JavaScript error: , line 0: uncaught exception: Timeout
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+ running in headless mode.
+1651151361336	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shane\\AppData\\Local\\Temp\\rust_mozprofileCpFgLg\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49317/devtools/browser/d9e87b5c-bee4-4df8-8276-d4b3c04313c3
+1651151362976	Marionette	INFO	Listening on port 49345
+Read port: 49345
+1651151363128	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/d_XgMe7_8DX3JscHlpumBxzOcHqlAtWKp75Cu0r3_I4.js line 1 > eval line 2477 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: Timeout
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NotFoundError: Could not move source file(C:\Users\shane\AppData\Local\Temp\rust_mozprofileCpFgLg\bookmarkbackups\bookmarks-2022-04-30_11_7o9FFS9GHqEDaXy-Rk-7Dw==.jsonlz4) because it does not exist
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1651151409862	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shane\\AppData\\Local\\Temp\\rust_mozprofile09hHBx\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49437/devtools/browser/23da93e7-3cd0-45f4-972b-fc6d365380c3
+1651151411477	Marionette	INFO	Listening on port 49461
+Read port: 49461
+1651151411527	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/d_XgMe7_8DX3JscHlpumBxzOcHqlAtWKp75Cu0r3_I4.js line 1 > eval line 2811 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: NotFoundError: Could not move source file(C:\Users\shane\AppData\Local\Temp\rust_mozprofile09hHBx\bookmarkbackups\bookmarks-2022-04-28_11_nSk-hECksYWgWgdDKYcePw==.jsonlz4) because it does not exist
+JavaScript error: , line 0: uncaught exception: Timeout
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NotFoundError: Could not move source file(C:\Users\shane\AppData\Local\Temp\rust_mozprofile09hHBx\bookmarkbackups\bookmarks-2022-04-29_11_nSk-hECksYWgWgdDKYcePw==.jsonlz4) because it does not exist
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+ open the file at C:\\Users\\shane\\AppData\\Local\\Temp\\rust_mozprofileP61KtA\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49557/devtools/browser/a49e22d2-3279-4523-adc9-285064d17e04
+1651151453655	Marionette	INFO	Listening on port 49583
+Read port: 49583
+1651151453795	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/d_XgMe7_8DX3JscHlpumBxzOcHqlAtWKp75Cu0r3_I4.js line 1 > eval line 6793 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: Timeout
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NotFoundError: Could not move source file(C:\Users\shane\AppData\Local\Temp\rust_mozprofileP61KtA\bookmarkbackups\bookmarks-2022-04-29_11_mX09SsU+gNDt9R-QfPt3-A==.jsonlz4) because it does not exist
+JavaScript error: , line 0: NotFoundError: Could not move source file(C:\Users\shane\AppData\Local\Temp\rust_mozprofileP61KtA\bookmarkbackups\bookmarks-2022-04-29_11_mX09SsU+gNDt9R-QfPt3-A==.jsonlz4) because it does not exist
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+ open the file at C:\\Users\\shane\\AppData\\Local\\Temp\\rust_mozprofileX3QbBw\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49698/devtools/browser/e32fe966-c4b8-4437-9465-c9ea4fb5e02e
+1651151505109	Marionette	INFO	Listening on port 49723
+Read port: 49723
+1651151505268	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/d_XgMe7_8DX3JscHlpumBxzOcHqlAtWKp75Cu0r3_I4.js line 1 > eval line 2418 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: NotFoundError: Could not move source file(C:\Users\shane\AppData\Local\Temp\rust_mozprofileX3QbBw\bookmarkbackups\bookmarks-2022-04-28.jsonlz4) because it does not exist
+JavaScript error: , line 0: uncaught exception: Timeout
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NotFoundError: Could not move source file(C:\Users\shane\AppData\Local\Temp\rust_mozprofileX3QbBw\bookmarkbackups\bookmarks-2022-04-29_11_6fnRJ0yfLmAl3m8Q+73nGA==.jsonlz4) because it does not exist
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+new NotFoundError("Could not open the file at C:\\Users\\shane\\AppData\\Local\\Temp\\rust_mozprofileNLJ5f5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49828/devtools/browser/87df981c-bf84-482b-9c32-5e0dc423a880
+1651151561501	Marionette	INFO	Listening on port 61147
+Read port: 61147
+1651151561541	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/d_XgMe7_8DX3JscHlpumBxzOcHqlAtWKp75Cu0r3_I4.js line 1 > eval line 2019 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: NotFoundError: Could not move source file(C:\Users\shane\AppData\Local\Temp\rust_mozprofileNLJ5f5\bookmarkbackups\bookmarks-2022-04-28.jsonlz4) because it does not exist
+JavaScript error: , line 0: NotFoundError: Could not move source file(C:\Users\shane\AppData\Local\Temp\rust_mozprofileNLJ5f5\bookmarkbackups\bookmarks-2022-04-28.jsonlz4) because it does not exist
+JavaScript error: , line 0: uncaught exception: Timeout
+JavaScript error: , line 0: NotFoundError: Could not move source file(C:\Users\shane\AppData\Local\Temp\rust_mozprofileNLJ5f5\bookmarkbackups\bookmarks-2022-04-28_11_dw7796Zs3cFP-gX91aNx8Q==.jsonlz4) because it does not exist
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NotFoundError: Could not move source file(C:\Users\shane\AppData\Local\Temp\rust_mozprofileNLJ5f5\bookmarkbackups\bookmarks-2022-04-29_11_dw7796Zs3cFP-gX91aNx8Q==.jsonlz4) because it does not exist
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+//pagead2.googlesyndication.com/bg/d_XgMe7_8DX3JscHlpumBxzOcHqlAtWKp75Cu0r3_I4.js line 1 > eval line 535 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: Timeout
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+e" "--marionette" "--headless" "--remote-debugging-port" "61685" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\shane\\AppData\\Local\\Temp\\rust_mozprofileCwyS77"
+*** You are running in headless mode.
+1651151946059	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shane\\AppData\\Local\\Temp\\rust_mozprofileCwyS77\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61685/devtools/browser/50b1fdcf-2d6e-45f0-a1cd-732c4ba91473
+1651151947617	Marionette	INFO	Listening on port 61710
+Read port: 61710
+1651151947716	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/d_XgMe7_8DX3JscHlpumBxzOcHqlAtWKp75Cu0r3_I4.js line 1 > eval line 464 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: Timeout
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
